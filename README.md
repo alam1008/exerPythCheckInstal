@@ -42,7 +42,7 @@
 
 |   Command   |         Result          |
 |     ---     |           ---           |
-|`python --version` in Anaconda Prompt         |(Python 3.8.3)|
+|`python --version` in Anaconda Prompt         |(Python 3.8.5)|
 |`python --version` in regular Command Prompt  |(Python 3.8.3)|
 
 * If you didn't get a result in the regular command prompt, it means Python didn't get added to your path variable.
